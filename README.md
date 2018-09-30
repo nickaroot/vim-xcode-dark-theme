@@ -10,7 +10,7 @@
 Alternatively you can reopen Vim to affect
 
 ### Manual
-1. Download colorscheme **xcode\_dark.vim**
+1. Download colorscheme **colors/xcode\_dark.vim**
 2. Copy it to Vim folder. Ex:  
 `cp xcode_dark.vim ~/.vimrc/colors/xcode_dark.vim`
 3. Add to your **.vimrc**  
