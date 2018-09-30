@@ -1,0 +1,10 @@
+{
+  "name": "vim-xcode-dark-theme",
+  "version": "1.0.0",
+  "repository": "git@github.com:nickaroot/vim-xcode-dark-theme.git",
+  "author": "Nick Aroot <funtrum@icloud.com>",
+  "license": "GNU",
+  "vim": {
+    "opt": true
+  }
+}
