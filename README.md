@@ -3,21 +3,19 @@
 ## Installation
 
 ### Plugged
-1. Add this lines to your **.vimrc**:
-`Plug 'nickaroot/vim-xcode-dark-theme'`
-And
-`colorscheme xcode_dark`
+1. Add this lines to your **.vimrc**:  
+`Plug 'nickaroot/vim-xcode-dark-theme'` and `colorscheme xcode_dark`
 2. Then `:PlugInstall` in Vim
-3. And `:source **.vimrc**`
+3. And `:source ~/.vimrc`  
 Alternatively you can reopen Vim to affect
 
 ### Manual
 1. Download colorscheme **xcode\_dark.vim**
-2. Copy it to Vim folder. Ex:
+2. Copy it to Vim folder. Ex:  
 `cp xcode_dark.vim ~/.vimrc/colors/xcode_dark.vim`
-3. Add to your **.vimrc**
+3. Add to your **.vimrc**  
 `colorscheme xcode_dark`
-4. In Vim: `:source **.vimrc**`
+4. In Vim: `:source ~/.vimrc`  
 Or just reopen Vim
 
 #### You are awesome!
